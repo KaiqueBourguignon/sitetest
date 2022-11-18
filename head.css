@@ -16,15 +16,16 @@
 
     }
     nav ul{
-        
+        background-image: url(https://br.freepik.com/fotos-gratis/papel-de-parede-geometrico-moderno-com-linhas-redondas_11904513.htm#query=fundo%20branco&position=47&from_view=keyword);
         background-color: black;
         margin: 0px;
+
 
     }
 
     nav li {
         
-        font-size: medium;
+        font-size: x-large;
         display: inline-block;
         padding: 10px 0 10px 0;
 
@@ -32,15 +33,15 @@
 
     nav a {
         text-decoration: none;
-        margin: 10px ;
-        color: rgb(250, 248, 248);
+        margin: 150px ;
+        color: rgb(240, 236, 236);
         padding: 0 40px 0 40px;
         
 
     }
     .photo {
         width: 100%;
-        height: 190px;
+        height: 240px;
     }
     .photo1 {
     margin-right: 10%;
@@ -56,7 +57,7 @@
     }
     .boti {
         
-        margin-left: 900px;
+        margin-left: 1100px;
         width: 300px;
         padding: 20px;
         text-decoration: none;
@@ -79,4 +80,9 @@
     .flex-column {
         display: flex;
         flex-direction: column;
+    }
+
+    body {
+        background-image: url(https://img.freepik.com/fotos-gratis/papel-de-parede-geometrico-moderno-com-linhas-redondas_23-2148811528.jpg?w=1480&t=st=1668769824~exp=1668770424~hmac=748178797eeacc54812f1ca7e86d01c3a8a8d12a4303da8fb8b745847b0d20bb);
+        width: auto;
     }
